@@ -10,7 +10,7 @@
   <li>Learned about randomisation in Swift.</li>
 </ul>
 <h2>☑️Check out same project that I did with JavaScript</h2>
-<a href="https://nigorafayzullaeva.github.io/DiceGame/"<h3>Live Demo</h3></a>
-<a href="https://github.com/NigoraFayzullaeva/DiceGame"<h3>Download</h3></a>
+<a target="_blank" href="https://nigorafayzullaeva.github.io/DiceGame/"<h3>Live Demo</h3></a>
+<a target="_blank" href="https://github.com/NigoraFayzullaeva/DiceGame"<h3>Download</h3></a>
 <h2>☑️Final look of Dice app</h2>
 <img src="diceIOS.png" alt="Dice" width="20%" height="50%">
