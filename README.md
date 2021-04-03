@@ -8,9 +8,16 @@
   <li>Detecting user interection and respond to it.</li>
   <li>Learned to use Swift Variables and Arrays to store data.</li>
   <li>Learned about randomisation in Swift.</li>
+  <li>Sizing classes and orientation</li>
+  <li>Understanding Constraints.</li>
+  <li>Learned about Alignment and Pinning</li>
+  <li>Using Containers for more fine grained control</li>
+  <li>StackViews</li>
 </ul>
 <h2>☑️ Check out same project that I did with JavaScript</h2>
 <h3><a href="https://nigorafayzullaeva.github.io/DiceGame/">Live Demo</a></h3>
 <h3><a href="https://github.com/NigoraFayzullaeva/DiceGame">Download</a></h3>
 <h2>☑️ Final look of Dice app🎲</h2>
 <img src="diceIOS.png" alt="Dice" width="20%" height="50%">
+<img src="diceIOShorizontal.png" alt="Dice" width="50%" height="20%">
+
