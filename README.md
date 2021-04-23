@@ -1,3 +1,4 @@
+⚠️ Feel free to download source code and change it by your own.
 <h2>☑️ What is this app about?</h2>
 <p>Nice dice app where we can hit the roll button to be the changed the dice faces randomly. </p>
 <h2>☑️ What have I learned?</h2>
