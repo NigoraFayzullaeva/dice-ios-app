@@ -19,6 +19,6 @@
 <h3><a href="https://nigorafayzullaeva.github.io/DiceGame/">Live Demo</a></h3>
 <h3><a href="https://github.com/NigoraFayzullaeva/DiceGame">Download</a></h3>
 <h2>☑️ Final look of Dice app🎲</h2>
-<img src="diceIOS.png" alt="Dice" width="20%" height="50%">
-<img src="diceIOShorizontal.png" alt="Dice" width="50%" height="20%">
+<img src="dice.gif" alt="Dice" width="20%" height="50%">
+
 
